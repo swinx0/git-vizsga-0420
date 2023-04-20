@@ -9,5 +9,6 @@ git add . - módosított JS file hozzáadása a stageing areahoz
 git commit -m "app.js módosítva, betöltődéskor ír a logba, hogy sikeres"
 git add . - módosított CSS file hozzáadása a stageing areahoz
 git commit -m "style.css háttere zöld lett"
+$ git remote remove origin - elérési út törlése
 git remote add origin https://github.com/swinx0/git-vizsga-0420.git
 git push -u origin console
