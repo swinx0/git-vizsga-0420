@@ -1,4 +1,5 @@
 git init - git inicializálása
+git clone https://github.com/szabopeter92/git-vizsga - anyag klónozása
 git status - változások lekérése
 git add . - hozzáadás a stageing areahoz
 git commit -m "ignore, es README létrehozva, ignore kitöltve"
